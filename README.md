@@ -1,4 +1,4 @@
-# AngryBird
+# FlappyBird
 first unity project with c# for learning hyper-casual game concepts
 
 
